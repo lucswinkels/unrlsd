@@ -4,6 +4,7 @@ import { login } from "../features/userSlice";
 import { Link, useNavigate } from "react-router-dom";
 import api from "../api/users";
 import { User } from "../types/users/User";
+import logo from "../assets/img/logo/logo.png";
 
 export interface LoginPageProps {}
 
@@ -46,6 +47,7 @@ const LoginPage: React.FC<LoginPageProps> = (props) => {
 
   return (
     <div className="min-h-screen p-5 flex flex-col justify-center items-center">
+      <img src={logo} width="200" className="mb-5" />
       <h1 className="text-3xl font-bold">Login</h1>
       <form
         onSubmit={(e) => handleLogin(e)}

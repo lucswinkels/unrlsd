@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 554.04 137.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Naamloos_verloop_40);
+      }
+
+      .cls-2 {
+        fill: url(#Naamloos_verloop_40-2);
+      }
+
+      .cls-3 {
+        fill: #1c243a;
+      }
+    </style>
+    <linearGradient id="Naamloos_verloop_40" data-name="Naamloos verloop 40" x1="-1752.47" y1="214.2" x2="-1752.47" y2="213.3" gradientTransform="translate(78009.76 35072.82) scale(44.51 -163.9)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d4009c"/>
+      <stop offset=".51" stop-color="#de4e78"/>
+      <stop offset="1" stop-color="#e79359"/>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_40-2" data-name="Naamloos verloop 40" x1="-1771.27" y1="214" x2="-1771.27" y2="213.1" gradientTransform="translate(240178.33 32501.88) scale(135.56 -151.87)" xlink:href="#Naamloos_verloop_40"/>
+  </defs>
+  <g id="Laag_1" data-name="Laag 1">
+    <g>
+      <circle class="cls-3" cx="90.82" cy="14.19" r="14.19"/>
+      <circle class="cls-3" cx="127.12" cy="28.19" r="14.19"/>
+      <g id="Group_12" data-name="Group 12">
+        <path id="Path_14" data-name="Path 14" class="cls-1" d="M0,82.18V11.91c0-2.92,2.36-5.29,5.28-5.29,0,0,0,0,0,0H21.45c2.92,0,5.29,2.36,5.29,5.28h0V80.05c0,5.84,.79,10.7,2.2,14.69,.65,1.89,.15,3.99-1.29,5.39l-12.56,12.56c-2.07,2.07-5.42,2.07-7.49,0-.34-.34-.63-.72-.87-1.14C2.41,103.93,0,94.2,0,82.18Z"/>
+        <path id="Path_15" data-name="Path 15" class="cls-2" d="M28.56,106.51c2.07-2.03,5.4-1.99,7.42,.09,.1,.1,.2,.21,.29,.32,4.29,4.94,10.41,7.16,17.58,7.16,14.14,0,24.02-8.53,24.02-29.65v-25.03c0-1.41,.56-2.76,1.56-3.75l16.11-16.11c2.08-2.07,5.44-2.07,7.51,0,.99,1,1.55,2.34,1.56,3.75v43.27c0,35.65-20.93,51.14-50.76,51.14-14.82,0-27.48-3.83-36.48-12.05-2.2-1.97-2.37-5.35-.4-7.55,.06-.07,.12-.13,.18-.19l11.39-11.39v-.02Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
